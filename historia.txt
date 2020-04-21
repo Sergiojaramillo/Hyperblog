@@ -10,3 +10,9 @@ Gustos.
 Bailar
 salir
 deporte etc
+
+Programas que esta aprendiendo
+
+javascript
+html 
+css
